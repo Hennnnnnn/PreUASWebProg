@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'profile' => 'Profile',
+    'restore_picture' => 'Restore Profile Picture',
+    'restore_picture_message' => 'You need 5 coins to restore your profile picture.',
+    'hide_profile' => 'Hide Profile (10 Coin)',
+    'show_profile' => 'Show Profile',
+    'purchased_avatars' => 'Purchased Avatars',
+    'received_avatars' => 'Received Avatars',
+    'no_avatars_received' => 'You have not received any avatars yet.',
+    'name' => 'Name',
+    'email' => 'Email',
+    'gender' => 'Gender',
+    'hobbies' => 'Hobbies',
+    'instagram' => 'Instagram',
+    'phone_number' => 'Phone Number',
+    'friendship_reason' => 'Friendship Reason',
+    'registration_price' => 'Registration Price',
+    'coins' => 'Coins',
+    'edit_profile' => 'Edit Profile',
+    'no_friends' => 'You have no friends yet.',
+    'friends' => 'Friends',
+    'remove' => 'Remove',
+    'set_as_profile' => 'Set as Profile',
+    'send_avatar' => 'Send Avatar',
+    'friend_picture' => 'Friend Picture',
+];

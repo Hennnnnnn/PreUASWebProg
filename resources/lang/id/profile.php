@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'profile' => 'Profil',
+    'restore_picture' => 'Pulihkan Foto Profil',
+    'restore_picture_message' => 'Anda memerlukan 5 koin untuk memulihkan foto profil Anda.',
+    'hide_profile' => 'Sembunyikan Profil (10 Koin)',
+    'show_profile' => 'Tampilkan Profil',
+    'purchased_avatars' => 'Avatar yang Dibeli',
+    'received_avatars' => 'Avatar yang Diterima',
+    'no_avatars_received' => 'Anda belum menerima avatar apapun.',
+    'name' => 'Nama',
+    'email' => 'Email',
+    'gender' => 'Jenis Kelamin',
+    'hobbies' => 'Hobi',
+    'instagram' => 'Instagram',
+    'phone_number' => 'Nomor Telepon',
+    'friendship_reason' => 'Alasan Persahabatan',
+    'registration_price' => 'Harga Pendaftaran',
+    'coins' => 'Koin',
+    'edit_profile' => 'Edit Profil',
+    'no_friends' => 'Anda belum memiliki teman.',
+    'friends' => 'Teman',
+    'remove' => 'Hapus',
+    'set_as_profile' => 'Jadikan Profil',
+    'send_avatar' => 'Kirim Avatar',
+    'friend_picture' => 'Foto Teman',
+];
